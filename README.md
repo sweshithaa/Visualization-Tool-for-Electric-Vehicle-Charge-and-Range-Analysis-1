@@ -4,8 +4,6 @@
 
 # E-CarStart - Electric Cars Analytics
 
-![E-CarStart Logo](assets/img/logo.png)
-
 Welcome to E-CarStart, your go-to platform for modern analytics solutions tailored specifically for Electric Vehicles (EVs) worldwide.
 
 ## Table of Contents
