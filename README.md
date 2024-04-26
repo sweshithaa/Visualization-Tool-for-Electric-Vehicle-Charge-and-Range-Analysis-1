@@ -1,8 +1,6 @@
-# Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
+# E-CarStart - Electric Cars Analytics
 
 **Video Demonstration:**
-
-# E-CarStart - Electric Cars Analytics
 
 Welcome to E-CarStart, your go-to platform for modern analytics solutions tailored specifically for Electric Vehicles (EVs) worldwide.
 
