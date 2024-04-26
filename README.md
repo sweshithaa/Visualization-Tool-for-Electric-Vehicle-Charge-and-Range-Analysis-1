@@ -10,9 +10,6 @@ Welcome to E-CarStart, your go-to platform for modern analytics solutions tailor
 - [Dashboard](#dashboard)
 - [Features](#features)
 - [Story](#story)
-- [Testimonials](#testimonials)
-- [Team](#team)
-- [Contact](#contact)
 
 ## About
 
